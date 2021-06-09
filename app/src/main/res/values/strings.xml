@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Frases do dia</string>
+    <string name="bom_dia">bom dia</string>
+    <string name="imagen_f" />
+    <string name="button_f" />
+    <string name="button_d" />
+    <string name="texto_f" />
+    <string name="button_fb">Button_fb</string>
+    <string name="pressione_para_saber_frase">Pressione para saber frase</string>
+    <string name="saiba_sua_frase">Saiba sua frase</string>
+</resources>
